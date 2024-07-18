@@ -24,6 +24,7 @@ header nav{
     margin-top: 15px;
     padding: 15px;
     align-items: center;
+    overflow: hidden;
 }
 
 nav ul{
